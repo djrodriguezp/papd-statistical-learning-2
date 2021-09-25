@@ -11,4 +11,4 @@
 - [Predicción de Grupo Musical Basado en sus Letras - Playbook Red RNN](https://colab.research.google.com/drive/1w9oy7AtY-5Def-cvgAzm96mWcmUlMp4e)
 
 ### Poster de Investigación
-- [Poster]
+- [Poster](Proyecto_SSL2_Daniel_Rodriguez.pdf)
